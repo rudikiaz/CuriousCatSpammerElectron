@@ -1,0 +1,19 @@
+{
+  "name": "CuriousCatSpammer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "rudikiaz",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "2.0.5"
+  },
+  "dependencies": {
+    "electron-remote": "^1.3.0",
+    "unirest": "^0.5.1"
+  }
+}

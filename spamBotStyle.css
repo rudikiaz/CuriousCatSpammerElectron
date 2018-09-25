@@ -1,0 +1,24 @@
+
+
+body {
+    background-color:	#D47A00;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 70px;
+    padding-top: 30px;
+}
+
+.struct {
+    padding-left: 20%
+}
+
+.submitSpam {
+    border-radius: 10cm;
+    width: 30rem;
+    height: 7rem;
+    background-color:	#F48A00;
+    border-color: 	#D47A00;
+    font-size: 3rem;
+}
